@@ -9,8 +9,11 @@ Query Parameter: query (e.g., ?query=a)
 Response Format: JSON { "results": ["Name1", "Name2", ...] }
 Maximum Results Per Query: 10–15 (depends on version)
 Different Versions: v1, v2, v3
+
 v1: No digits in results
+
 v2: Names can start with digits
+
 v3: Supports special characters (like -, .), but only inside the name, not as first character
 
 2️. Findings & Limitations
