@@ -38,7 +38,7 @@ pip install requests
 
 Run the script:
 
-python autocomplete_scraper.py
+python 4.py
 
 Results will be saved in:
 
